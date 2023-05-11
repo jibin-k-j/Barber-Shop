@@ -1,0 +1,378 @@
+{
+  "project_info": {
+    "project_number": "886783855315",
+    "project_id": "booking-api-c142b",
+    "storage_bucket": "booking-api-c142b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886783855315:android:e2d9653d9eb4bf53916226",
+        "android_client_info": {
+          "package_name": "com.codekaze.barber_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886783855315-ipust0rgq2t2k9vg2n4vgajkjt4om2er.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekaze.barber_app",
+            "certificate_hash": "40ccb437dd36ddb3d5259ddca3247dc6ab134683"
+          }
+        },
+        {
+          "client_id": "886783855315-pis3i52coh7vu5eq4o6gerj8gtg5g5gn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekaze.barber_app",
+            "certificate_hash": "5b5b9a27029cc5ebd2395c76a829993145961ff7"
+          }
+        },
+        {
+          "client_id": "886783855315-acbr8o8cdeerds2vab6g8kmlmic7nq21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC050U2GOlay_zk3HbbqUiAMOlyoht9w9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886783855315-acbr8o8cdeerds2vab6g8kmlmic7nq21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886783855315:android:268be26d8e523b92916226",
+        "android_client_info": {
+          "package_name": "com.codekaze.barber_app_core"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886783855315-i8asvfp3r84rgjkti43b6opmh2v7a6v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekaze.barber_app_core",
+            "certificate_hash": "40ccb437dd36ddb3d5259ddca3247dc6ab134683"
+          }
+        },
+        {
+          "client_id": "886783855315-mgk32jbvdp1elbknsm6s4cs5a611hgeq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekaze.barber_app_core",
+            "certificate_hash": "33f35775f420f2ca91eb9114e1ad275f59981cde"
+          }
+        },
+        {
+          "client_id": "886783855315-s1b10geq0rauh3c7cqj49nh7f5uquiha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekaze.barber_app_core",
+            "certificate_hash": "5b5b9a27029cc5ebd2395c76a829993145961ff7"
+          }
+        },
+        {
+          "client_id": "886783855315-acbr8o8cdeerds2vab6g8kmlmic7nq21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC050U2GOlay_zk3HbbqUiAMOlyoht9w9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886783855315-acbr8o8cdeerds2vab6g8kmlmic7nq21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886783855315:android:2831a99c59e59dcf916226",
+        "android_client_info": {
+          "package_name": "com.codekaze.booking_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886783855315-0890q2fajnsou2266srpsl1v3397so0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekaze.booking_api",
+            "certificate_hash": "5b5b9a27029cc5ebd2395c76a829993145961ff7"
+          }
+        },
+        {
+          "client_id": "886783855315-f6cce3mhqkhmp73mkr1nfsqirkbgfbb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekaze.booking_api",
+            "certificate_hash": "33f35775f420f2ca91eb9114e1ad275f59981cde"
+          }
+        },
+        {
+          "client_id": "886783855315-pparqtfcs0h7tg82ff5s8pgtufesk9qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekaze.booking_api",
+            "certificate_hash": "40ccb437dd36ddb3d5259ddca3247dc6ab134683"
+          }
+        },
+        {
+          "client_id": "886783855315-acbr8o8cdeerds2vab6g8kmlmic7nq21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC050U2GOlay_zk3HbbqUiAMOlyoht9w9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886783855315-acbr8o8cdeerds2vab6g8kmlmic7nq21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886783855315:android:4314668ed27b0e4c916226",
+        "android_client_info": {
+          "package_name": "com.codekaze.booking_core_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886783855315-2mpk2h5kn9itppkai199jis0imv555m5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekaze.booking_core_api",
+            "certificate_hash": "33f35775f420f2ca91eb9114e1ad275f59981cde"
+          }
+        },
+        {
+          "client_id": "886783855315-g6vfa043sdm2kmlrc73m11p791qa47mn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekaze.booking_core_api",
+            "certificate_hash": "40ccb437dd36ddb3d5259ddca3247dc6ab134683"
+          }
+        },
+        {
+          "client_id": "886783855315-uuejr0t14nkcuubu4565iqr9jo5vdpoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekaze.booking_core_api",
+            "certificate_hash": "5b5b9a27029cc5ebd2395c76a829993145961ff7"
+          }
+        },
+        {
+          "client_id": "886783855315-acbr8o8cdeerds2vab6g8kmlmic7nq21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC050U2GOlay_zk3HbbqUiAMOlyoht9w9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886783855315-acbr8o8cdeerds2vab6g8kmlmic7nq21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886783855315:android:d2f0e7db85026770916226",
+        "android_client_info": {
+          "package_name": "com.codekaze.car_rental_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886783855315-br154hu4snm3ttjj3dpdd8b59a15tibn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekaze.car_rental_app",
+            "certificate_hash": "40ccb437dd36ddb3d5259ddca3247dc6ab134683"
+          }
+        },
+        {
+          "client_id": "886783855315-hrr8232njoi1k5pcd6rshibdhd32ulv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekaze.car_rental_app",
+            "certificate_hash": "5b5b9a27029cc5ebd2395c76a829993145961ff7"
+          }
+        },
+        {
+          "client_id": "886783855315-acbr8o8cdeerds2vab6g8kmlmic7nq21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC050U2GOlay_zk3HbbqUiAMOlyoht9w9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886783855315-acbr8o8cdeerds2vab6g8kmlmic7nq21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886783855315:android:2b76f587bf6c374f916226",
+        "android_client_info": {
+          "package_name": "com.codekaze.doctor_appointment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886783855315-6end5qa4aof3ott6jrv1i59ks42np170.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekaze.doctor_appointment_app",
+            "certificate_hash": "40ccb437dd36ddb3d5259ddca3247dc6ab134683"
+          }
+        },
+        {
+          "client_id": "886783855315-ks5jqfba4fda9f4nnnqvc0ijm6pp6vm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekaze.doctor_appointment_app",
+            "certificate_hash": "5b5b9a27029cc5ebd2395c76a829993145961ff7"
+          }
+        },
+        {
+          "client_id": "886783855315-acbr8o8cdeerds2vab6g8kmlmic7nq21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC050U2GOlay_zk3HbbqUiAMOlyoht9w9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886783855315-acbr8o8cdeerds2vab6g8kmlmic7nq21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886783855315:android:9aa56ad115ebe71a916226",
+        "android_client_info": {
+          "package_name": "com.codekaze.hotel_booking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886783855315-acbr8o8cdeerds2vab6g8kmlmic7nq21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC050U2GOlay_zk3HbbqUiAMOlyoht9w9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886783855315-acbr8o8cdeerds2vab6g8kmlmic7nq21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886783855315:android:9441219855f037cf916226",
+        "android_client_info": {
+          "package_name": "com.codekaze.ruslan_barber_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886783855315-h2kif2r6v3aheo7ilngh48dhaqb23lsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekaze.ruslan_barber_app",
+            "certificate_hash": "40ccb437dd36ddb3d5259ddca3247dc6ab134683"
+          }
+        },
+        {
+          "client_id": "886783855315-md2ptspkhq4vhba9egu3o8ok3mgeo9q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codekaze.ruslan_barber_app",
+            "certificate_hash": "5b5b9a27029cc5ebd2395c76a829993145961ff7"
+          }
+        },
+        {
+          "client_id": "886783855315-acbr8o8cdeerds2vab6g8kmlmic7nq21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC050U2GOlay_zk3HbbqUiAMOlyoht9w9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886783855315-acbr8o8cdeerds2vab6g8kmlmic7nq21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
